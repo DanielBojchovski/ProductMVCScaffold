@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMVCScaffold", "ProductMVCScaffold\ProductMVCScaffold.csproj", "{844C67FB-189B-4368-8E21-23CCFD487D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844C67FB-189B-4368-8E21-23CCFD487D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844C67FB-189B-4368-8E21-23CCFD487D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844C67FB-189B-4368-8E21-23CCFD487D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844C67FB-189B-4368-8E21-23CCFD487D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F3A770A-076B-4844-8D0E-82659E280F47}
+	EndGlobalSection
+EndGlobal
